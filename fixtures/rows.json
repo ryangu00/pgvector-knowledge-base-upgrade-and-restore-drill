@@ -1,0 +1,5 @@
+[
+  {"id":"a","slug":"fixture/alpha","body":"original alpha","timeline":"initial","frontmatter":{"privacy":"confidential","category":"fixture"},"deleted_at":null,"fact_count":1,"tag_count":1},
+  {"id":"b","slug":"fixture/beta","body":"original beta","timeline":"","frontmatter":{},"deleted_at":"2026-09-27"},
+  {"id":"c","slug":"fixture/gamma","body":"original gamma","timeline":"","frontmatter":{},"deleted_at":null}
+]

@@ -1,0 +1,11 @@
+{
+  "domain": "gui/<uid>",
+  "loaded": ["example.application"],
+  "services": {
+    "example.application": {
+      "live": "work/live/example.application.plist",
+      "staged": "work/new/example.application.plist",
+      "backup": "work/anchor/example.application.plist"
+    }
+  }
+}

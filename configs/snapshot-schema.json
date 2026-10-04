@@ -1,0 +1,8 @@
+{
+  "table": "pages",
+  "columns": {
+    "id": "id", "slug": "slug", "body": "body", "timeline": "timeline",
+    "frontmatter": "frontmatter", "deleted_at": "deleted_at",
+    "updated_at": "updated_at", "fact_count": "fact_count", "tag_count": "tag_count"
+  }
+}
